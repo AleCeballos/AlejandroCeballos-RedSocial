@@ -1,0 +1,34 @@
+.img-container {
+    width: 50%;
+    height: 10%;
+}
+.circular {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+    margin-bottom: 10%;
+}
+.card {
+    margin: 0 auto;
+    /* align-items: center; */
+    align-content: center;
+}
+li .commentBtn{
+    margin-left: 57%;
+    margin-right: 0%;
+}
+.tiny-img{
+    border-radius: 100%;
+    size: 1%;
+}
+.tiny-img-container{
+    width: 10%;
+    height: 10%;
+}
+.comment {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    /* border: 1px solid #000000; */
+    padding: 0 4px 0 4px;
+ }

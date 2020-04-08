@@ -1,0 +1,89 @@
+@font-face{
+
+
+    src: url(../fonts/Handlee-Regular.ttf);
+    font-family: ha;
+}
+
+
+
+/*HEADER----------------------*/
+.nav-link{
+
+    font-family: ha;
+    font-size: 25px;
+    color: rgb(5, 6, 7) !important;
+    border: 2px solid rgb(0, 124, 128) ;
+    border-radius: 3%;
+    box-shadow: -5px 10px 5px 0px rgba(146, 146, 146, 0.75) !important;
+}
+
+.navbar-brand{
+    color: rgb(52, 122, 122) !important;
+        /* font-family: 'Satisfy', cursive; */
+/* font-family: 'Patrick Hand', cursive;*/
+font-family: 'Gloria Hallelujah', cursive;
+/* font-family: 'Autour One', cursive;  */
+
+font-size: 30px;
+
+text-shadow: -5px 10px 5px  rgba(146, 146, 146, 0.75) !important;
+
+}
+
+.dropdown-item{
+
+    font-family: ha;
+    font-size: 20px;    
+}
+
+.navbar-toggler-icon{
+
+    background-color: rgb(0, 124, 128) !important;
+    border-radius: 20%;
+}
+
+h1{
+    color: rgb(52, 122, 122) !important;
+    /* font-family: 'Satisfy', cursive; */
+/* font-family: 'Patrick Hand', cursive;*/
+font-family: 'Gloria Hallelujah', cursive;
+/* font-family: 'Autour One', cursive;  */
+
+}
+
+
+@media  (max-width:1386px) and (min-width:  992px) {
+    .navbar-brand{
+
+     display: none !important;
+    }
+
+  }
+
+
+
+  @media  (max-width:1386px) and (min-width:  992px) {
+    .navbar-brand{
+
+     display: none !important;
+    }
+
+  }
+
+
+  @media  (max-width:1386px) and (min-width:  991px){
+
+    .nav-link{
+     
+        font-family: ha;
+        font-size: 19px;
+        color: rgb(5, 6, 7) !important;
+        border: 2px solid rgb(0, 124, 128) ;
+        border-radius: 3%;
+        box-shadow: -5px 10px 5px 0px rgba(146, 146, 146, 0.75) !important;
+    }
+
+  }
+
+  
